@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    padding: 20px;
+  }
+  
+  h2 {
+    color: #333;
+  }
+  
+  pre {
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    overflow-x: auto; /* Enable horizontal scrolling if needed */
+    max-width: 800px; /* Limit the width of the code block */
+    margin: 20px auto; /* Center the code block */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    white-space: pre-wrap; /* Preserve line breaks */
+  }
+  
